@@ -1,0 +1,2 @@
+*.unity,*.mp3,*.mp4,*.wav,*.jpg,*.png,*.asset,*.sln,*.cs,*.prefab filter=lfs diff=lfs merge=lfs -text
+*.anim filter=lfs diff=lfs merge=lfs -text
